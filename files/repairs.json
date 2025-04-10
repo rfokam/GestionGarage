@@ -1,0 +1,19 @@
+{
+  "$type": "System.Collections.Generic.List`1[[GarageManagement.Reparation, AppGarage4]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "GarageManagement.Reparation, AppGarage4",
+      "Id": 123,
+      "TypeIntervention": "Moteur",
+      "Description": "Changement d'huile (vidange)",
+      "CoutEstime": 150.0,
+      "PiecesUtilisees": {
+        "$type": "System.Collections.Generic.List`1[[GarageManagement.PieceDetachee, AppGarage4]], System.Private.CoreLib",
+        "$values": []
+      },
+      "VehiculeRepare": null,
+      "ClientLogin": "ffokam",
+      "NomClient": null
+    }
+  ]
+}

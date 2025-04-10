@@ -1,0 +1,65 @@
+{
+  "$type": "System.Collections.Generic.List`1[[GarageApp.Utilisateur, AppGestionGarage]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "GarageApp.Client, AppGestionGarage",
+      "Role": "Client",
+      "User_ID": 1,
+      "Nom": "KOUONGA FOKAM",
+      "Prenom": "CLEMENT RUISSEL",
+      "Email": "rfokam@gmail.com",
+      "Login": "rfokam",
+      "EstConnecte": false,
+      "Adresse": null,
+      "Telephone": null
+    },
+    {
+      "$type": "GarageApp.Proprietaire, AppGestionGarage",
+      "Role": "Propriétaire",
+      "User_ID": 2,
+      "Nom": "KOUONGA FOKAM",
+      "Prenom": "FRANCK OLIVIN",
+      "Email": "franck.fokam@gmail.com",
+      "Login": "ffokam",
+      "EstConnecte": false,
+      "Adresse": null,
+      "Telephone": null
+    },
+    {
+      "$type": "GarageApp.Vendeur, AppGestionGarage",
+      "Role": "Vendeur",
+      "User_ID": 3,
+      "Nom": "KOUONGA PEGOUONG",
+      "Prenom": "ANDREA",
+      "Email": "a.kouonga@gmail.com",
+      "Login": "a.kouonga",
+      "EstConnecte": false,
+      "Adresse": null,
+      "Telephone": null
+    },
+    {
+      "$type": "GarageApp.Fournisseur, AppGestionGarage",
+      "Role": "Fournisseur",
+      "User_ID": 4,
+      "Nom": "KOUONGA TUEKAM",
+      "Prenom": "DAPHNE PHARELLE",
+      "Email": "d.tuekam@yahoo.fr",
+      "Login": "d.tuekam",
+      "EstConnecte": false,
+      "Adresse": null,
+      "Telephone": null
+    },
+    {
+      "$type": "GarageApp.Client, AppGestionGarage",
+      "Role": "Client",
+      "User_ID": 6,
+      "Nom": "TCHIENTCHEU KAKANOU",
+      "Prenom": "Miriane",
+      "Email": "miriane.kakanou@gmail.com",
+      "Login": "m.kakanou",
+      "EstConnecte": false,
+      "Adresse": "1247 Boul Pie XI Nord, G5F2G2, Québec",
+      "Telephone": "567 676 5634"
+    }
+  ]
+}

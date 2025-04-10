@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "VehicleVIN": "1FAHP3F26DL11987",
+    "ClientLogin": "rfokam",
+    "TypeIntervention": "Moteur",
+    "DescriptionTravaux": "Vérification des pièce d'allumage pour moteur",
+    "CoutEstime": 125.0,
+    "PiecesUtilisees": [],
+    "DateIntervention": "2025-04-05T22:37:12.1169816-04:00"
+  },
+  {
+    "Id": 2,
+    "VehicleVIN": "AEAEP3F26DL11987",
+    "ClientLogin": "rfokam",
+    "TypeIntervention": "Mécanique",
+    "DescriptionTravaux": "Changement des plaquettes de frein",
+    "CoutEstime": 225.0,
+    "PiecesUtilisees": [],
+    "DateIntervention": "2025-04-05T22:48:43.2958373-04:00"
+  },
+  {
+    "Id": 3,
+    "VehicleVIN": "1FAHP3F26DL12025",
+    "ClientLogin": "rfokam",
+    "TypeIntervention": "Mécanique",
+    "DescriptionTravaux": "Changement des plaquettes de frein",
+    "CoutEstime": 125.0,
+    "PiecesUtilisees": [
+      {
+        "Piece": null,
+        "QuantiteUtilisee": 0
+      }
+    ],
+    "DateIntervention": "2025-04-05T23:28:09.1047498-04:00"
+  },
+  {
+    "Id": 4,
+    "VehicleVIN": "YTFRJ765FR87GFR34",
+    "ClientLogin": "rfokam",
+    "TypeIntervention": "Chauffage",
+    "DescriptionTravaux": "Composant qui permet de diffuser l'air chaud dans l'habitacle",
+    "CoutEstime": 150.0,
+    "PiecesUtilisees": [
+      {
+        "Piece": {
+          "Id": 87014,
+          "Nom": "Plaquettes de frein",
+          "Categorie": "Mécanique",
+          "Prix": 125.0,
+          "Quantite": 4,
+          "Description": "Un paquet est constitué de 4 plaquettes (2 pour l'avant et 2 pour l'arrière)",
+          "DateApprovisionnement": "2025-04-05T17:13:16.4759322-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 4
+      }
+    ],
+    "DateIntervention": "2025-04-06T00:21:21.2614985-04:00"
+  },
+  {
+    "Id": 5,
+    "VehicleVIN": "JHGRFDSVG654SIJ7",
+    "ClientLogin": "m.kakanou",
+    "TypeIntervention": "Système d'alimentation",
+    "DescriptionTravaux": "Composant qui envoie le carburant vers le moteur",
+    "CoutEstime": 250.0,
+    "PiecesUtilisees": [
+      {
+        "Piece": {
+          "Id": 87014,
+          "Nom": "Plaquettes de frein",
+          "Categorie": "Mécanique",
+          "Prix": 125.0,
+          "Quantite": 6,
+          "Description": "Un paquet est constitué de 4 plaquettes (2 pour l'avant et 2 pour l'arrière)",
+          "DateApprovisionnement": "2025-04-05T17:13:16.4759322-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 2
+      },
+      {
+        "Piece": {
+          "Id": 3182,
+          "Nom": "Bougies d'allumage Bosh",
+          "Categorie": "Electricité",
+          "Prix": 75.0,
+          "Quantite": 8,
+          "Description": "Bougie pour problèmes d'allumage du moteur",
+          "DateApprovisionnement": "2025-04-06T23:52:12.6762325-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 2
+      }
+    ],
+    "DateIntervention": "2025-04-07T23:02:18.8755706-04:00"
+  }
+]

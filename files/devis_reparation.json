@@ -1,0 +1,121 @@
+[
+  {
+    "Id": 1,
+    "VehicleVIN": "1FAHP3F26DL11987",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-05T22:28:04.6197586-04:00",
+    "CoutEstime": 125.0,
+    "DescriptionTravaux": "Vérification des pièce d'allumage pour moteur",
+    "CoutMainOeuvre": 0.0,
+    "PiecesNecessaires": [],
+    "Statut": "En attente"
+  },
+  {
+    "Id": 2,
+    "VehicleVIN": "1FAHP3F26DL11987",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-05T22:39:02.2334405-04:00",
+    "CoutEstime": 125.0,
+    "DescriptionTravaux": "Vérification des pièce d'allumage pour moteur",
+    "CoutMainOeuvre": 0.0,
+    "PiecesNecessaires": [],
+    "Statut": "En attente"
+  },
+  {
+    "Id": 3,
+    "VehicleVIN": "TSFG7654SHJ7665",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-06T00:13:53.8660317-04:00",
+    "CoutEstime": 200.0,
+    "DescriptionTravaux": "Changement des bougies d'allumage",
+    "CoutMainOeuvre": 0.0,
+    "PiecesNecessaires": [],
+    "Statut": "En attente"
+  },
+  {
+    "Id": 4,
+    "VehicleVIN": "GFDYU7LKUUGDFR3E",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-06T20:53:25.359619-04:00",
+    "CoutEstime": 333.0,
+    "DescriptionTravaux": "Refaire la carrosserie de la portière",
+    "CoutMainOeuvre": 0.0,
+    "PiecesNecessaires": [],
+    "Statut": "En attente"
+  },
+  {
+    "Id": 5,
+    "VehicleVIN": "JFGBZ34KJUSU8ZJH",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-06T23:43:53.2473117-04:00",
+    "CoutEstime": 1460.0,
+    "DescriptionTravaux": "Changement des pneux",
+    "CoutMainOeuvre": 60.0,
+    "PiecesNecessaires": [
+      {
+        "Piece": {
+          "Id": 57433,
+          "Nom": "Pneus Brigestone 255/60/R20",
+          "Categorie": "Pneumatique",
+          "Prix": 350.0,
+          "Quantite": 16,
+          "Description": "Pneus d'été",
+          "DateApprovisionnement": "2025-04-06T23:50:51.4621748-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 4
+      }
+    ],
+    "Statut": "Facturé"
+  },
+  {
+    "Id": 6,
+    "VehicleVIN": "ZHTFG54RFSJUO9LS",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-07T21:04:47.7827534-04:00",
+    "CoutEstime": 360.0,
+    "DescriptionTravaux": "Contrôle du système d'allumage",
+    "CoutMainOeuvre": 60.0,
+    "PiecesNecessaires": [
+      {
+        "Piece": {
+          "Id": 3182,
+          "Nom": "Bougies d'allumage Bosh",
+          "Categorie": "Electricité",
+          "Prix": 75.0,
+          "Quantite": 10,
+          "Description": "Bougie pour problèmes d'allumage du moteur",
+          "DateApprovisionnement": "2025-04-06T23:52:12.6762325-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 4
+      }
+    ],
+    "Statut": "Facturé"
+  },
+  {
+    "Id": 7,
+    "VehicleVIN": "GHYTFRTHJF87VGFR",
+    "ClientLogin": "rfokam",
+    "DateDevis": "2025-04-07T22:26:32.1140172-04:00",
+    "CoutEstime": 1525.0,
+    "DescriptionTravaux": "Changement des pneus",
+    "CoutMainOeuvre": 125.0,
+    "PiecesNecessaires": [
+      {
+        "Piece": {
+          "Id": 57433,
+          "Nom": "Pneus Brigestone 255/60/R20",
+          "Categorie": "Pneumatique",
+          "Prix": 350.0,
+          "Quantite": 16,
+          "Description": "Pneus d'été",
+          "DateApprovisionnement": "2025-04-06T23:50:51.4621748-04:00",
+          "FournisseurLogin": "d.tuekam"
+        },
+        "QuantiteUtilisee": 4
+      }
+    ],
+    "Statut": "Facturé"
+  }
+]
