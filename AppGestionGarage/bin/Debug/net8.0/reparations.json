@@ -1,0 +1,219 @@
+[
+  {
+    "Categorie": "Moteur",
+    "NomDePiece": "Bougie d'allumage",
+    "PrixApprox": 15.0,
+    "Description": "PiÃ¨ce d'allumage pour moteur",
+    "ReparationAssociee": "Remplacement des bougies d'allumage"
+  },
+  {
+    "Categorie": "Moteur",
+    "NomDePiece": "Filtre Ã  air",
+    "PrixApprox": 25.0,
+    "Description": "Filtre permettant de purifier l'air entrant dans le moteur",
+    "ReparationAssociee": "Remplacement du filtre Ã  air"
+  },
+  {
+    "Categorie": "Moteur",
+    "NomDePiece": "Kit de distribution",
+    "PrixApprox": 350.0,
+    "Description": "Ensemble de courroies pour le systÃ¨me de distribution du moteur",
+    "ReparationAssociee": "Remplacement du kit de distribution"
+  },
+  {
+    "Categorie": "Transmission",
+    "NomDePiece": "Embrayage",
+    "PrixApprox": 300.0,
+    "Description": "SystÃ¨me permettant de dÃ©connecter le moteur des roues pour passer les vitesses",
+    "ReparationAssociee": "Remplacement de l'embrayage"
+  },
+  {
+    "Categorie": "Transmission",
+    "NomDePiece": "BoÃ®te de vitesses",
+    "PrixApprox": 1500.0,
+    "Description": "Composant du systÃ¨me permettant de changer les rapports de vitesse",
+    "ReparationAssociee": "Remplacement de la boÃ®te de vitesses"
+  },
+  {
+    "Categorie": "Freinage",
+    "NomDePiece": "Disque de frein",
+    "PrixApprox": 80.0,
+    "Description": "Composant de frein qui aide Ã  ralentir le vÃ©hicule",
+    "ReparationAssociee": "Remplacement des disques de frein"
+  },
+  {
+    "Categorie": "Freinage",
+    "NomDePiece": "Plaquettes de frein",
+    "PrixApprox": 50.0,
+    "Description": "Composant en contact avec le disque pour ralentir le vÃ©hicule",
+    "ReparationAssociee": "Remplacement des plaquettes de frein"
+  },
+  {
+    "Categorie": "Suspension",
+    "NomDePiece": "Amortisseur",
+    "PrixApprox": 100.0,
+    "Description": "Composant qui aide Ã  contrÃ´ler les chocs et vibrations",
+    "ReparationAssociee": "Remplacement des amortisseurs"
+  },
+  {
+    "Categorie": "Suspension",
+    "NomDePiece": "Barre stabilisatrice",
+    "PrixApprox": 120.0,
+    "Description": "Composant de la suspension qui rÃ©duit le roulis du vÃ©hicule",
+    "ReparationAssociee": "Remplacement de la barre stabilisatrice"
+  },
+  {
+    "Categorie": "SystÃ¨me Ã©lectrique",
+    "NomDePiece": "Alternateur",
+    "PrixApprox": 300.0,
+    "Description": "Composant qui recharge la batterie du vÃ©hicule",
+    "ReparationAssociee": "Remplacement de l'alternateur"
+  },
+  {
+    "Categorie": "SystÃ¨me Ã©lectrique",
+    "NomDePiece": "Batterie",
+    "PrixApprox": 100.0,
+    "Description": "Source d'alimentation Ã©lectrique du vÃ©hicule",
+    "ReparationAssociee": "Remplacement de la batterie"
+  },
+  {
+    "Categorie": "SystÃ¨me de refroidissement",
+    "NomDePiece": "Radiateur",
+    "PrixApprox": 250.0,
+    "Description": "Composant qui refroidit le moteur en Ã©vacuant la chaleur",
+    "ReparationAssociee": "Remplacement du radiateur"
+  },
+  {
+    "Categorie": "SystÃ¨me de refroidissement",
+    "NomDePiece": "Termostat",
+    "PrixApprox": 60.0,
+    "Description": "PiÃ¨ce qui rÃ©gule la tempÃ©rature du moteur",
+    "ReparationAssociee": "Remplacement du thermostat"
+  },
+  {
+    "Categorie": "Ã‰chappement",
+    "NomDePiece": "Silencieux",
+    "PrixApprox": 150.0,
+    "Description": "Composant qui rÃ©duit le bruit des gaz d'Ã©chappement",
+    "ReparationAssociee": "Remplacement du silencieux"
+  },
+  {
+    "Categorie": "Ã‰chappement",
+    "NomDePiece": "Collecteur d'Ã©chappement",
+    "PrixApprox": 400.0,
+    "Description": "Composant qui collecte les gaz d'Ã©chappement du moteur",
+    "ReparationAssociee": "Remplacement du collecteur d'Ã©chappement"
+  },
+  {
+    "Categorie": "Carrosserie",
+    "NomDePiece": "Par-brise",
+    "PrixApprox": 200.0,
+    "Description": "Vitres avant du vÃ©hicule",
+    "ReparationAssociee": "Remplacement du pare-brise"
+  },
+  {
+    "Categorie": "Carrosserie",
+    "NomDePiece": "Pare-chocs",
+    "PrixApprox": 180.0,
+    "Description": "Composant qui protÃ¨ge le vÃ©hicule lors des chocs",
+    "ReparationAssociee": "Remplacement du pare-chocs"
+  },
+  {
+    "Categorie": "Carrosserie",
+    "NomDePiece": "Feux arriÃ¨re",
+    "PrixApprox": 70.0,
+    "Description": "Composant d'Ã©clairage Ã  l'arriÃ¨re du vÃ©hicule",
+    "ReparationAssociee": "Remplacement des feux arriÃ¨re"
+  },
+  {
+    "Categorie": "Carrosserie",
+    "NomDePiece": "Capot",
+    "PrixApprox": 350.0,
+    "Description": "PiÃ¨ce de protection du moteur",
+    "ReparationAssociee": "Remplacement du capot"
+  },
+  {
+    "Categorie": "Pneumatique",
+    "NomDePiece": "Pneu",
+    "PrixApprox": 100.0,
+    "Description": "Composant en caoutchouc qui assure la traction",
+    "ReparationAssociee": "Remplacement des pneus"
+  },
+  {
+    "Categorie": "Pneumatique",
+    "NomDePiece": "Valve de pneu",
+    "PrixApprox": 15.0,
+    "Description": "Composant permettant d'inflater et de maintenir l'air dans les pneus",
+    "ReparationAssociee": "Remplacement de la valve de pneu"
+  },
+  {
+    "Categorie": "Suspension",
+    "NomDePiece": "Amortisseur arriÃ¨re",
+    "PrixApprox": 110.0,
+    "Description": "Composant de la suspension arriÃ¨re qui absorbe les chocs",
+    "ReparationAssociee": "Remplacement de l'amortisseur arriÃ¨re"
+  },
+  {
+    "Categorie": "Climatisation",
+    "NomDePiece": "Compresseur de climatisation",
+    "PrixApprox": 500.0,
+    "Description": "Composant qui permet de refroidir l'air",
+    "ReparationAssociee": "Remplacement du compresseur de climatisation"
+  },
+  {
+    "Categorie": "Climatisation",
+    "NomDePiece": "Filtre de cabine",
+    "PrixApprox": 40.0,
+    "Description": "Filtre qui nettoie l'air entrant dans l'habitacle",
+    "ReparationAssociee": "Remplacement du filtre de cabine"
+  },
+  {
+    "Categorie": "SystÃ¨me d'alimentation",
+    "NomDePiece": "Injecteur",
+    "PrixApprox": 120.0,
+    "Description": "Composant qui pulvÃ©rise le carburant dans la chambre de combustion",
+    "ReparationAssociee": "Nettoyage ou remplacement des injecteurs"
+  },
+  {
+    "Categorie": "SystÃ¨me d'alimentation",
+    "NomDePiece": "Pompe Ã  carburant",
+    "PrixApprox": 200.0,
+    "Description": "Composant qui envoie le carburant vers le moteur",
+    "ReparationAssociee": "Remplacement de la pompe Ã  carburant"
+  },
+  {
+    "Categorie": "SystÃ¨me de direction",
+    "NomDePiece": "Direction assistÃ©e",
+    "PrixApprox": 400.0,
+    "Description": "Composant qui aide Ã  tourner le volant avec moins de force",
+    "ReparationAssociee": "RÃ©paration du systÃ¨me de direction assistÃ©e"
+  },
+  {
+    "Categorie": "Ã‰lectrique",
+    "NomDePiece": "Capteur de stationnement",
+    "PrixApprox": 100.0,
+    "Description": "Capteur utilisÃ© pour dÃ©tecter les obstacles lors des manÅ“uvres",
+    "ReparationAssociee": "Remplacement du capteur de stationnement"
+  },
+  {
+    "Categorie": "Ã‰lectrique",
+    "NomDePiece": "Feu de signalisation",
+    "PrixApprox": 30.0,
+    "Description": "Composant d'Ã©clairage permettant d'indiquer les intentions du conducteur",
+    "ReparationAssociee": "Remplacement des feux de signalisation"
+  },
+  {
+    "Categorie": "Chauffage",
+    "NomDePiece": "Soufflerie de chauffage",
+    "PrixApprox": 150.0,
+    "Description": "Composant qui permet de diffuser l'air chaud dans l'habitacle",
+    "ReparationAssociee": "Remplacement de la soufflerie de chauffage"
+  },
+  {
+    "Categorie": "Chauffage",
+    "NomDePiece": "Chauffage de siÃ¨ge",
+    "PrixApprox": 250.0,
+    "Description": "Composant qui chauffe les siÃ¨ges du vÃ©hicule",
+    "ReparationAssociee": "RÃ©paration du chauffage de siÃ¨ge"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrEOm2dq8Ew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOUONGA\\source\\repos\\AppGestionGarage\\AppGestionGarage\\AppGestionGarage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOUONGA\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\KOUONGA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
